@@ -1,27 +1,26 @@
-Encyclopedia Fantastica
-===
+# Encyclopedia Fantastica
 
-Matzetufflis
-Eumel(-tier)
-Flitzpiepe
-Bipsberger
-Gurkenhals
+## Wesen
+* Bipsberger
+* Düsius Blitzius
+* Eumel(-tier)
+* Flitzpiepe
+* Gurkenhals
+* Hausgeist Bogomil
+* Jimmie Klitschie der Erdbeergeist
+* Kanallje
+* Lumisch
+* Matzetufflis
+* Miefquirler
+* Quark/Klecks im Schaufenster
+* Sportsfreund
+* Wiesentreter
 
-Lumisch
-Quark/Klecks im Schaufenster
-Hausgeist Bogomil
-Wiesentreter
-Düsius Blitzius
-
-Jimmie Klitschie der Erdbeergeist
-Kanallje
-Sportsfreund
-Dann brennt die Luft!
-Da sind die Augen grösser als der Mund.
-
-Miefquirler
-Du spielst mit deinem Leben!
-Zuerst komme ich, dann lange, lange nichts...
-Hast du Jagdwurst gegessen?
-Beim Betten machen gefunden.
-Was? Wasser ist nass...
+## Sprüche
+* Beim Betten machen gefunden.
+* Da sind die Augen grösser als der Mund.
+* Dann brennt die Luft!
+* Du spielst mit deinem Leben!
+* Hast du Jagdwurst gegessen?
+* Was? Wasser ist nass...
+* Zuerst komme ich, dann lange, lange nichts...
