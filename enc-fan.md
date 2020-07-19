@@ -1,6 +1,6 @@
 # Encyclopedia Fantastica
 
-## Wesen
+## Wesen I
 * Bipsberger
 * Düsius Blitzius
 	* kleiner runder Kugelblitz
@@ -27,8 +27,18 @@
 
 ---
 
+## Wesen II
 * Kanallje
+	* kleiner Rebell
+	* wäre gern Pirat
+	* immer etwas übermütig
+	* don kanallje
 * Lumisch
+	* Schelm
+	* sieht aus wie Lulatsch
+* Lulatsch
+	* lange Arme/Beine
+	* schlaksig
 * Matzetufflis
 	* kleine bunte Würmer
 	* wohnen im Keller
@@ -37,6 +47,9 @@
 	* können leuchten wie bunte Glühwürmer
 	* vertreiben andere Monster aus dem Keller
 * Miefquirler
+	* wird von schlechter Luft/Gestank angelockt
+	* verteilt diese/n noch überall weiter herum
+	* hat propeller
 * Quark/Klecks im Schaufenster
 * Sportsfreund
 * Wiesentreter
