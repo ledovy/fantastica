@@ -7,6 +7,11 @@
 * Flitzpiepe
 * Gurkenhals
 * Hausgeist Bogomil
+ * unsichtbar
+ * wohnt mit in der Wohnung
+ * macht Türen/Fenster auf/zu
+ * lässt auch mal ein Bild runterfallen
+ * passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
 * Kanallje
 * Lumisch
