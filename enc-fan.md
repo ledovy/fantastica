@@ -3,7 +3,15 @@
 ## Wesen
 * Bipsberger
 * Düsius Blitzius
+ * kleiner runder Kugelblitz
+ * mit Cape
+ * rennt immer wie wild herum
 * Eumel(-tier)
+ * Mischwesen
+ * bunte Punkte
+ * Fühler?
+ * hat Blödsinn im Sinn
+ * treibt Schabernak
 * Flitzpiepe
 * Gurkenhals
 * Hausgeist Bogomil
@@ -26,6 +34,8 @@
 * Quark/Klecks im Schaufenster
 * Sportsfreund
 * Wiesentreter
+
+---
 
 ## Sprüche
 * Beim Betten machen gefunden.
