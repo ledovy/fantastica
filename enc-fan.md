@@ -21,6 +21,12 @@
 	* lässt auch mal ein Bild runterfallen
 	* passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
+	* sieht aus wie eine Erdbeere
+	* glitschig/roter Schleim
+	* taucht plötzlich auf
+
+---
+
 * Kanallje
 * Lumisch
 * Matzetufflis
