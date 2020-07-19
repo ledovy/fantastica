@@ -14,6 +14,8 @@
 	* treibt Schabernak
 * Flitzpiepe
 * Gurkenhals
+	* Tolpatsch
+	* langer biegsamer Hals
 * Hausgeist Bogomil
 	* unsichtbar
 	* wohnt mit in der Wohnung
@@ -51,8 +53,11 @@
 	* verteilt diese/n noch überall weiter herum
 	* hat propeller
 * Quark/Klecks im Schaufenster
+	* gutes Omen
 * Sportsfreund
 * Wiesentreter
+	* grosser Vogel
+	* stakt auf Wiesen umher
 
 ---
 
@@ -62,5 +67,7 @@
 * Dann brennt die Luft!
 * Du spielst mit deinem Leben!
 * Hast du Jagdwurst gegessen?
+* War dein Vater Glaser?
 * Was? Wasser ist nass...
+* Zieht wie Hechtsuppe
 * Zuerst komme ich, dann lange, lange nichts...
