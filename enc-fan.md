@@ -16,6 +16,12 @@
 * Kanallje
 * Lumisch
 * Matzetufflis
+ * kleine bunte Würmer
+ * wohnen im Keller
+ * lieb aber etwas unheimlich
+ * mögen Dunkelheit
+ * können leuchten wie bunte Glühwürmer
+ * vertreiben andere Monster aus dem Keller
 * Miefquirler
 * Quark/Klecks im Schaufenster
 * Sportsfreund
