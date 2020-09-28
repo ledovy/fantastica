@@ -22,11 +22,13 @@
 	* Tolpatsch
 	* langer biegsamer Hals
 * Hausgeist Bogomil
-	* unsichtbar
-	* wohnt mit in der Wohnung
-	* macht Türen/Fenster auf/zu
-	* lässt auch mal ein Bild runterfallen
-	* passt in den Ferien auf die Wohnung auf
+	* _BE_ Geist der in Wohnungen der Menschen haust
+	* _MM_ da unsichtbar weiss man leider nicht, wie er aussieht
+	* _MM_ familientreu, zieht auch mit um
+	* _VK_ wohnt mit in der Wohnung
+	* _VE_ macht Türen/Fenster auf/zu
+	* _VE_ lässt auch mal ein Bild runterfallen
+	* _VE_ passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
 	* sieht aus wie eine Erdbeere
 	* glitschig/roter Schleim
