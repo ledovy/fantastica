@@ -12,11 +12,11 @@
 	* mit Cape
 	* rennt immer wie wild herum
 * Eumel(-tier)
-	* Mischwesen
-	* bunte Punkte
-	* Fühler?
-	* hat Blödsinn im Sinn
-	* treibt Schabernak
+	* _BE_ harmloses Mischwesen
+	* _MM_ bunte Punkte
+	* _MM_ Fühler
+	* _VH_ hat Blödsinn im Sinn
+	* _VH_ treibt Schabernak
 * Flitzpiepe
 * Gurkenhals
 	* Tolpatsch
@@ -26,9 +26,9 @@
 	* _MM_ da unsichtbar weiss man leider nicht, wie er aussieht
 	* _MM_ familientreu, zieht auch mit um
 	* _VK_ wohnt mit in der Wohnung
-	* _VE_ macht Türen/Fenster auf/zu
-	* _VE_ lässt auch mal ein Bild runterfallen
-	* _VE_ passt in den Ferien auf die Wohnung auf
+	* _VH_ macht Türen/Fenster auf/zu
+	* _VH_ lässt auch mal ein Bild runterfallen
+	* _VH_ passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
 	* sieht aus wie eine Erdbeere
 	* glitschig/roter Schleim
