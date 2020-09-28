@@ -30,9 +30,12 @@
 	* _VH_ lässt auch mal ein Bild runterfallen
 	* _VH_ passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
-	* sieht aus wie eine Erdbeere
-	* glitschig/roter Schleim
-	* taucht plötzlich auf
+	* _BE_ kleiner Naturgeist
+	* _MM_ sieht aus wie eine Erdbeere
+	* _MM_ glitschig/roter Schleim
+	* _MM_ Naschkatze, sehr verfressen
+	* _VK_ häufig in der Küche, findet aber auch an anderen Orten Nahrung
+	* _VH_ versteckt sich um Essen zu stibitzen, wird manchmal überrascht. dadurch entsteht der Eindruck, als tauche er plötzlich auf, um uns zu erschrecken.
 
 ---
 
