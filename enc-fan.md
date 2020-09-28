@@ -54,6 +54,9 @@
 	* hat propeller
 * Quark/Klecks im Schaufenster
 	* gutes Omen
+* Spargeltarzan
+	* kleines, schlacksiges Männlein
+	* Bezug zu Spargel?
 * Sportsfreund
 * Wiesentreter
 	* grosser Vogel
@@ -64,9 +67,11 @@
 ## Sprüche
 * Beim Betten machen gefunden.
 * Da sind die Augen grösser als der Mund.
+* Das kannste machen wie Nolte...
 * Dann brennt die Luft!
 * Du spielst mit deinem Leben!
 * Hast du Jagdwurst gegessen?
+* Ist mir Jacke wie Hose.
 * War dein Vater Glaser?
 * Was? Wasser ist nass...
 * Zieht wie Hechtsuppe
