@@ -5,6 +5,8 @@
 * Vorkommen
 * Verhalten
 
+---
+
 ## Wesen I
 * Bipsberger
 * Düsius Blitzius
