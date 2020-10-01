@@ -14,16 +14,17 @@
 
 ---
 
-## Wesen I
+## Wesen
 * Bipsberger, der
 	* __MM__ eher klein
 	* __VK__ z.B. "Los Bipsberger, jetzt gehen/müssen wir aber essen"
-	* Abrafaxe?
+	* _Abrafaxe?_
 * Düsius Blitzius, der
 	* __MM__ kleiner runder Kugelblitz
 	* __MM__ mit Cape
 	* __VH__ rennt immer wie wild herum
-	* Mamfuzius Schmatz
+	* __VH__ muss überschüssige Energie loswerden
+	* _Mamfuzius Schmatz_
 * Eumel(-tier), das
 	* __BE__ harmloses Mischwesen
 	* __MM__ bunte Punkte
@@ -33,9 +34,9 @@
 	* __VK__ fühlt sich aber auch draussen (z.B. auf Spielpätzen) wohl
 	* __VH__ hat Blödsinn im Sinn
 	* __VH__ treibt Schabernak
-	* Marienkäfer
+	* _Marienkäfer_
 * Flitzpiepe, die
-	* Grashüpfer?
+	* _Grashüpfer?_
 * Gurkenhals, der
 	* Tolpatsch
 	* langer biegsamer Hals
@@ -47,7 +48,7 @@
 	* __VH__ macht Türen/Fenster auf/zu (plautzen)
 	* __VH__ lässt auch mal ein Bild runterfallen
 	* __VH__ passt in den Ferien auf die Wohnung auf
-	* Gespenst
+	* _Gespenst_
 * Jimmie Klitschie der Erdbeergeist
 	* __BE__ kleiner Naturgeist
 	* __MM__ sieht aus wie eine Erdbeere
@@ -55,44 +56,47 @@
 	* __VH__ Naschkatze, sehr verfressen
 	* __VK__ häufig in der Küche, findet aber auch an anderen Orten Nahrung
 	* __VH__ versteckt sich um Essen zu stibitzen, wird manchmal überrascht. dadurch entsteht der Eindruck, als tauche er plötzlich auf, um uns zu erschrecken.
-
----
-
-## Wesen II
 * Kanallje, die
-	* kleiner Rebell
-	* wäre gern Pirat
-	* immer etwas übermütig
-	* Don Kanallje
+	* __BE__ sowas wie ne Knalltüte
+	* __MM__ wäre gern Pirat
+	* __VH__ kleiner Rebell
+	* __VH__ immer etwas übermütig
+	* _Don Kanallje_
 * Lumisch, der
 	* Schelm
 	* sieht aus wie Lulatsch
-	* Waluigi?
+	* führt andere hinters Licht, aber nie böse
+	* _Waluigi?_
 * Lulatsch, der
 	* lange Arme/Beine
 	* schlaksig
+	* etwas einfältiger Verwandter des Lulatsch
+	* _Hurvinek und Spejbl?_
 * Matzetufflis, die
-	* kleine bunte Würmer
-	* wohnen im Keller
-	* lieb aber etwas unheimlich
-	* mögen Dunkelheit
-	* können leuchten wie bunte Glühwürmer
-	* sind gut für ein gesundes Kellerklima, halten Monster fern (weil wuselig und bunt)
+	* __MM__ kleine bunte Würmer
+	* __MM__ lieb aber etwas unheimlich
+	* __MM__ sind gut für ein gesundes Kellerklima, halten Monster fern (weil wuselig und bunt)
+	* __VK__ wohnen im Keller
+	* __VH__ mögen Dunkelheit
+	* __VH__ können leuchten wie bunte Glühwürmer
 * Miefquirler, der
-	* wird von schlechter Luft/Gestank angelockt
-	* verteilt diese/n noch überall weiter herum
-	* hat propeller
-	* Bolek?
+	* __MM__ hat propeller
+	* __VK__ wird von schlechter Luft/Gestank angelockt
+	* __VH__ verteilt diese/n noch überall weiter herum
+	* _Bolek?_
 * Quark/Klecks im Schaufenster, ein
 	* gutes Omen
+	* Versprechen an die Zukunft
+	* Bote aus grauer Vorzeit
 * Spargeltarzan, der
 	* kleines, schlacksiges Männlein
 	* Bezug zu Spargel?
 * Sportsfreund, der
 * Wiesentreter, der
-	* grosser Vogel
-	* stakt auf Wiesen umher
-	* Reiher
+	* __BE__ grosses vogelähnliches Wesen
+	* __MM__ sieht aus wie ein Reiher
+	* __VK__ sehr scheu, sieht man nur aus der Ferne
+	* __VH__ stakt auf Wiesen umher
 
 ---
 
