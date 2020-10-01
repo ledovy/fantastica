@@ -10,34 +10,36 @@
 ## Wesen I
 * Bipsberger
 * Düsius Blitzius
-	* kleiner runder Kugelblitz
-	* mit Cape
-	* rennt immer wie wild herum
+	* __MM__ kleiner runder Kugelblitz
+	* __MM__ mit Cape
+	* __VH__ rennt immer wie wild herum
 * Eumel(-tier)
-	* _BE_ harmloses Mischwesen
-	* _MM_ bunte Punkte
-	* _MM_ Fühler
-	* _VH_ hat Blödsinn im Sinn
-	* _VH_ treibt Schabernak
+	* __BE__ harmloses Mischwesen
+	* __MM__ bunte Punkte
+	* __MM__ Fühler
+	* __VK__ versteckt sich oft im Kinderzimmer zwischen Spielzeug
+	* __VK__ fühlt sich aber auch draussen (z.B. auf Spielpätzen) wohl
+	* __VH__ hat Blödsinn im Sinn
+	* __VH__ treibt Schabernak
 * Flitzpiepe
 * Gurkenhals
 	* Tolpatsch
 	* langer biegsamer Hals
 * Hausgeist Bogomil
-	* _BE_ Geist der in Wohnungen der Menschen haust
-	* _MM_ da unsichtbar weiss man leider nicht, wie er aussieht
-	* _MM_ familientreu, zieht auch mit um
-	* _VK_ wohnt mit in der Wohnung
-	* _VH_ macht Türen/Fenster auf/zu
-	* _VH_ lässt auch mal ein Bild runterfallen
-	* _VH_ passt in den Ferien auf die Wohnung auf
+	* __BE__ Geist der in Wohnungen der Menschen haust
+	* __MM__ da unsichtbar weiss man leider nicht, wie er aussieht
+	* __MM__ familientreu, zieht auch mit um
+	* __VK__ wohnt mit in der Wohnung
+	* __VH__ macht Türen/Fenster auf/zu
+	* __VH__ lässt auch mal ein Bild runterfallen
+	* __VH__ passt in den Ferien auf die Wohnung auf
 * Jimmie Klitschie der Erdbeergeist
-	* _BE_ kleiner Naturgeist
-	* _MM_ sieht aus wie eine Erdbeere
-	* _MM_ glitschig/roter Schleim
-	* _MM_ Naschkatze, sehr verfressen
-	* _VK_ häufig in der Küche, findet aber auch an anderen Orten Nahrung
-	* _VH_ versteckt sich um Essen zu stibitzen, wird manchmal überrascht. dadurch entsteht der Eindruck, als tauche er plötzlich auf, um uns zu erschrecken.
+	* __BE__ kleiner Naturgeist
+	* __MM__ sieht aus wie eine Erdbeere
+	* __MM__ glitschig/roter Schleim
+	* __MM__ Naschkatze, sehr verfressen
+	* __VK__ häufig in der Küche, findet aber auch an anderen Orten Nahrung
+	* __VH__ versteckt sich um Essen zu stibitzen, wird manchmal überrascht. dadurch entsteht der Eindruck, als tauche er plötzlich auf, um uns zu erschrecken.
 
 ---
 
