@@ -4,6 +4,7 @@
 * __MM__ Merkmale
 * __VK__ Vorkommen
 * __VH__ Verhalten
+* Gattung/Stammbaum/Herkunft?
 
 * kulturelle Referenzen einbauen
 	* Abrafaxe
@@ -108,12 +109,12 @@
 	* wenn die Augen grösser werden, sehen die Dinge kleiner aus, als gewohnt. Und dann verschätzt man sich
 * Das kannste machen wie Nolte, ...
 	* ...der machte wie er's wollte
-	* wer war Nolte? Freigeist? 
+	* wer war Nolte? Freigeist? bunte Kleider?
 	* _Hippie?_
 * Dann brennt die Luft!
 * Du spielst mit deinem Leben!
 * Hast du Jagdwurst gegessen?
-	* was ist Jagdwurst
+	* was ist Jagdwurst?
 	* macht einen schneller
 * Ist mir Jacke wie Hose.
 	* hat beides zwei "Röhren", kann also auch vertauschen
