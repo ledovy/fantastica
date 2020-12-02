@@ -1,0 +1,4 @@
+augen: arme
+jacke: zusammenrücken
+jimmie: kante
+
